@@ -1,0 +1,3 @@
+Protocol,Service,class1,class2,class3,Attack_type,Traffic,type,label,wustl_col1,ton_iot_col1
+tcp,http,Normal,Normal,Normal,Normal,Normal,normal,normal,0,0
+udp,dns,Attack,Attack,Attack,DDoS,Attack,ddos,1,1,1

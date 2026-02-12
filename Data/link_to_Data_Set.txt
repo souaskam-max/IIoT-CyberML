@@ -1,0 +1,12 @@
+https://www.kaggle.com/datasets/skamsoua/ton-iot-train-test
+
+https://www.kaggle.com/datasets/phamthaibao/wustl-iiot-2021
+
+https://www.kaggle.com/datasets/skamsoua/xiiotid-iiot-intrusion-dataset
+
+
+https://www.kaggle.com/code/mohamedahmedae/resnet50-cnn1d
+
+
+
+
