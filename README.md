@@ -70,12 +70,7 @@ The analysis pipeline consists of:
 If you use this code in your research, please cite our work:
 
 ```bibtex
-@article{SOUADIH2025IIoT,
-  title={IIoT-CyberML: A Multi-Dataset Detection System applied to OT networks in critical infrastructures},
-  author={Kamal SOUADIH and Foudil MIR},
-  journal={.............................},
-  year={2025}
-}
+
 ```
 
 ## 📜 License
