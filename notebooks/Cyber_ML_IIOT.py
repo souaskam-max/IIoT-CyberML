@@ -1,6 +1,6 @@
 """
 IIoT-CyberML: A Multi-Dataset Detection System - REVIEWER VERSION
-Authors: Kamal Souadih and Foudil Mir
+
 
 REVIEWER NOTE:
 - This script contains 100% of the original code for full reproducibility
@@ -868,4 +868,5 @@ def main_unified():
 
 if __name__ == "__main__":
     main_unified()
+
 
